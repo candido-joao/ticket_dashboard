@@ -5,7 +5,7 @@ API para disponibilizar os dados para a composição de um dashboard de chamados
 
 *GET*: http://localhost:8080/api/tickets?mes=3&ano=2021
 
-*POST*: 
+*POST*:  
   URL http://localhost:8080/api/tickets  
 
   Body  
