@@ -7,13 +7,13 @@ API para disponibilizar os dados para a composição de um dashboard de chamados
 
 *POST*: http://localhost:8080/api/tickets
 
-{
-  "id": 1,
-  "titulo": "Erro no financeiro",
-  "codCliente": 1,
-  "codModulo": 2,
-  "dataAbertura": "2021-03-01",
-  "dataEncerramento": "2021-03-02"
-}
+{  
+  "id": 1,  
+  "titulo": "Erro no financeiro",  
+  "codCliente": 1,  
+  "codModulo": 2,  
+  "dataAbertura": "2021-03-01",  
+  "dataEncerramento": "2021-03-02"  
+}  
 
 *Bkp banco de dados*: https://drive.google.com/file/d/1Nw-MCiBEBozGHjbT7J5Rtq-J_fvuacai/view?usp=sharing
