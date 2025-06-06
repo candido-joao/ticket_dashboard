@@ -7,7 +7,6 @@ API para disponibilizar os dados para a composição de um dashboard de chamados
 
 *POST*: http://localhost:8080/api/tickets
 
-Body JSON
 {
   "id": 1,
   "titulo": "Erro no financeiro",
